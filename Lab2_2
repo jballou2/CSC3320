@@ -1,0 +1,189 @@
+   83  cat
+   84  ls
+   85  head
+   86  cat
+   87  cp /home/frondel1/Public/RealEstate.csv RealEstate.csv
+   88  ls
+   89  cat
+   90  head
+   91  cp /home/jballou1/Public/RealEstate.csv RealEstate.csv
+   92  cat RealEstate.csv
+   93  head 
+   94  cat RealEstate.csv
+   95  head RealEstate.csv
+   96  wc RealEstate.csv
+   97  cat RealEstate.csv
+   98  cd ~
+   99  mkdir public
+  100  ls
+  101  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  102  cp /home/jballou1/Lab2_P2/RealEstate.csv myRealEstate.csv
+  103  ls
+  104  pwd
+  105  ls /home/jballou1
+  106  cd public
+  107  cd Public
+  108  ls
+  109  cd ~
+  110  rm public
+  111  cd public
+  112  ls
+  113  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  114  cd ~
+  115  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  116  cd Lab2_P2
+  117  ls
+  118  cd public
+  119  cd ~
+  120  cd public
+  121  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  122  cd ~
+  123  ls
+  124  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  125  rm /home/jballou1/myRealEstate.csv
+  126  pwd
+  127  cd public
+  128  ls
+  129  cp /RealEstate.csv myRealEstate.csv
+  130  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  131  cd ~
+  132  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  133  cp /home/frondel1/public/RealEstate.csv myRealEstate.csv
+  134  cp /home/jballou1/Public/RealEstate.csv myRealEstate.csv
+  135  cp /home/jballou1/public/myRealEstate.csv
+  136  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  137  cd public
+  138  pwd
+  139   cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  140  cd ~
+  141  rm ~ myRealEstate.csv
+  142  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  143  cp /home/jballou1/Public/RealEstate.csv
+  144  cp /home/jballou1/Public/RealEstate.csv myRealEstate.csv
+  145  cp /home/frondel1/Public/RealEstate.csv myRealEstate.csv
+  146  ls
+  147  cp /home/frondel1/public/RealEstate.csv myRealEstate.csv
+  148  cd public
+  149  ls
+  150  cd lab2_P2
+  151  ls
+  152  cd ~
+  153  cd lab2_P2
+  154  cd Lab2_P2
+  155  ls
+  156  cd~
+  157  cd ~
+  158  mkdir public
+  159  cp /home/jballou1/public/myRealEstate.csv myRealEstate.csv
+  160  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  161  cd public
+  162  cd ~
+  163  cp /home/jballou1/RealEstate.csv/public myRealEstate.csv
+  164  cd public
+  165  ls
+  166  cp /home/jballou1/RealEstate.csv myRealEstate.csv
+  167  rm -r
+  168  cd
+  169  rm -r public
+  170  ls
+  171  mkdir public
+  172  ls
+  173  cp /home/jballou1/public/RealEstate.csv myRealEstate.csv
+  174  ls
+  175  cd public
+  176  ls
+  177  cd ~
+  178  pwd
+  179  cd publoc
+  180  cd public
+  181  pwd
+  182  cp /home/jballou1/Lab2_P2/RealEstate.csv myRealEstate.csv
+  183  ls
+  184  pwd
+  185  ls myRealEstate.csv
+  186  cd
+  187  ls /home/jballou1/public
+  188  cd public
+  189  cd
+  190  mkdir Public
+  191  cd Public
+  192  mkdir Regular
+  193  mkdir Submission
+  194  pwd
+  195  mv /home/jballou1/Regular /home/jballou1/Others
+  196  cd ~
+  197  mv /home/jballou1/Regular
+  198  mv /home/jballou1/Regular /home/jballou1/Others
+  199  cd Directory
+  200  cd Regular
+  201  cd Public
+  202  ls
+  203  pwd
+  204  mv /home/jballou1/Public/Regular /home/jballou1/Others
+  205  ls
+  206  cd ~
+  207  ls
+  208  mv /home/jballou1/Others /home/jballou1/Public/Others
+  209  ls
+  210  cd Public
+  211  ls
+  212  cd Submission
+  213  mkdir Lab2
+  214  mkdir Lab3
+  215  cd Lab2
+  216  pwd
+  217  cp /home/jballou/Public/Submission/Lab2 Lab2_P2 
+  218  cp /home/jballou1/Lab2_P2
+  219  cp /home/jballou1/Lab2_P2 Lab2_P2
+  220  ls
+  221  cd
+  222  cd Lab2_P2
+  223  pwd
+  224  cd ~
+  225  cp /home/jballou1/Lab2_P2 Lab2
+  226  cd Lab2
+  227  cd Public
+  228  ls
+  229  cd Submission
+  230  ls
+  231  cp /home/jballou1/Lab2_P2 Lab2
+  232  cd Lab2
+  233  cp /home/jballou1/Lab2_P2 Lab2
+  234  cp -r ~/home/jballou1/Lab2_P2 Lab2
+  235  pwd
+  236  cp /home/jballou1/Public/Submission/Lab2 Lab2_P2
+  237  cd ~
+  238  cp /home/jballou1/LabP2_P2 /home/jballou1/Public/Submission/Lab2
+  239  LabP2_P2
+  240  cd LabP2_P2
+  241  cp /home/jballou1/Lab2_P2 /home/jballou1/Public/Submission/Lab2
+  242  cp /home/jballou1/Lab2_P2 Lab2
+  243  cp -r /home/jballou1/Lab2_P2 /home/jballou1/Public/Submission/Lab2
+  244  cd Lab2
+  245  cd Submission
+  246  ls
+  247  cd Public
+  248  cd Submission
+  249  cd Lab2
+  250  ls
+  251  cd
+  252  rm /home/jballou1/Lab2_P2
+  253  rm -rf /home/jballou1/Lab2_P2
+  254  ls
+  255  cd public
+  256  ls
+  257  cd
+  258  cd Public
+  259  ls
+  260  cd
+  261  rm /home/jballou1/myRealEstate.csv
+  262  cd public
+  263  ls
+  264  cd
+  265  ls
+  266  cd Public
+  267  ls
+  268  cd
+  269  history
+[jballou1@gsuad.gsu.edu@snowball ~]$ 
+
